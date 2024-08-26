@@ -1,4 +1,4 @@
-const URL_BASE = "https://www.pornhub.com";
+const URL_BASE = "https://www.pornhub.org";
 
 const PLATFORM_CLAIMTYPE = 3;
 
